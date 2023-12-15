@@ -6,4 +6,6 @@ int main(){
     cout << "Signore, fa che funzioni";
 }
 
-//gggggggggggggggggggggggggggggggggggggggggggggggggggggggggg...
+void si(){
+    cout << "si" << endl;
+}
