@@ -5,3 +5,7 @@ using namespace std;
 int main(){
     cout << "Signore, fa che funzioni";
 }
+
+void si(){
+    cout << "si" << endl;
+}
